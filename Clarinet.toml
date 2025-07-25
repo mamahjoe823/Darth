@@ -1,0 +1,11 @@
+[project]
+name = "public-pledges"
+description = "A simple contract for making public, immutable pledges for the public good."
+authors = []
+telemetry = true
+cache_dir = "./.cache"
+requirements = []
+
+[contracts.public-pledges]
+path = "contracts/public-pledges.clar"
+depends_on = []
